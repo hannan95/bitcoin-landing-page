@@ -30,4 +30,9 @@ This project was built to practice responsive frontend development, UI implement
 
 **ScreenShots**
 
+<img width="1907" height="915" alt="image" src="https://github.com/user-attachments/assets/c63b2991-eb1c-4fc7-b793-2728eea8cbda" />
+
+<img width="1897" height="915" alt="image" src="https://github.com/user-attachments/assets/c6f51c15-7fcb-4f36-b4db-aeca428d5301" />
+
+<img width="1905" height="917" alt="image" src="https://github.com/user-attachments/assets/5ff5357b-54c3-4b45-b263-fd4dc3429ac3" />
 
